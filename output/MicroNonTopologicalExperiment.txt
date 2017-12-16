@@ -1,0 +1,13 @@
+# A/A		Query		Cold/Warm		Short/Long		Results		Execution	Full Scan	Total Duration (nsecs)
+1                  Area_CLC           cold               long               -1                 1801               1801               1801              
+2                  Area_CLC           warm               long               -1                 1801               1801               1801              
+3                  Boundary_CLC       cold               long               44834              337150146          25920802572        26257952718       
+4                  Boundary_CLC       warm               long               44834              1320132            17966968769        17968288901       
+5                  Buffer_GeoNames_2  cold               long               21990              82909465           193947660          276857125         
+6                  Buffer_GeoNames_2  warm               long               21990              808524             76050934           76859458          
+7                  Buffer_LGD_2       cold               long               12097              46550730           68503362           115054092         
+8                  Buffer_LGD_2       warm               long               12097              1294877            46021828           47316705          
+9                  ConvexHull_CLC     cold               long               44834              57839079           13693644924        13751484003       
+10                 ConvexHull_CLC     warm               long               44834              751471             11953814167        11954565638       
+11                 Envelope_CLC       cold               long               44834              99521727           13024476989        13123998716       
+12                 Envelope_CLC       warm               long               44834              731849             8736933343         8737665192        
